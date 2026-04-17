@@ -4,7 +4,7 @@ This project is a Machine Learning-based SMS Spam Detection system that classifi
 
 The model is trained on a labeled SMS dataset and applies text preprocessing, feature extraction, and classification algorithms to achieve high accuracy in detecting unwanted messages.
 
-### Live Demo : 
+### Live Demo : https://sms-spam-webapp-stp2.onrender.com
 
 ### Project Overview
 
