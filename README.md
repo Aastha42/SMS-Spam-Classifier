@@ -52,11 +52,11 @@ Scikit-learn
 NLP (Natural Language Processing)
 
 ### Model Performance (Example)
-Random Forest Classifier Model
-    Training Accuracy: 97.58%
-    Testing Accuracy: 99.97%
-    Precision: 100%
-    Recall: 99.8%
+Bernoulli Naive Bayes Model
+    Training Accuracy: 99.34%
+    Testing Accuracy: 99.03%
+    Precision: 98.48%
+    Recall: 94.2%
 
 ### Future Improvements
 Deploy as a web application using Flask
